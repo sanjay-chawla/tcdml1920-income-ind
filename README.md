@@ -5,4 +5,4 @@ Assignment submission for ML assignment
 1. Install <code>pip install category_encoders</code>
 2. All files in same folder 
 3. Run <code>python income_predictor.py</code>
-4. Result file is generated in same folder
+4. Result file is generated in same folder with name "result_3_3"
